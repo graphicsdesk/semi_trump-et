@@ -7,12 +7,144 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Columbia continues to inch its way forward in abiding by the terms of the $221 million settlement it <a href=\"https://www.columbiaspectator.com/news/2025/07/23/columbia-will-pay-220-million-in-deal-with-trump-administration-to-resume-federal-funding/\">struck </a>with President Donald Trump’s administration in July 2025, according to the University’s second semiannual report on its compliance with the deal <a href=\"https://www.columbia.edu/content/sites/www.columbia.edu.content/files/content/RA/Columbia-University-Resolution-Agreement-Semi-Annual-Report-October-2026.pdf\">published</a> Thursday."
+          },
+          {
+            "type": "text",
+            "value": "The report details Columbia’s efforts to diversify its faculty and, starting this fall, the implementation of a mandatory antidiscrimination training for all students. Its 49 pages, prepared for <a href=\"https://www.columbiaspectator.com/news/2026/01/23/lawyer-who-argued-for-state-ban-on-same-sex-marriage-named-new-independent-monitor-in-universitys-settlement-with-trump-administration/\">Charles Cooper</a>—the independent third-party monitor overseeing Columbia’s compliance with the deal—described the University’s path to compliance as “ongoing” and confirmed that Columbia made the second of three installment payments of $66.67 million to the Trump administration."
+          },
+          {
+            "type": "text",
+            "value": "The landmark settlement restored <a href=\"https://www.columbiaspectator.com/news/2025/10/07/shipman-to-discuss-caps-on-research-indirect-costs-on-capitol-hill-amid-restoration-of-almost-99-percent-of-canceled-federal-grants/\">“almost 99 percent”</a> of the $400 million in funding the federal government <a href=\"https://www.columbiaspectator.com/news/2025/03/07/trump-administration-cuts-400-million-in-federal-funding-to-columbia/\">canceled</a> in March 2025 and mandated the University to compile semiannual reports on its compliance with the deal’s terms. In the Thursday report, Columbia marked 21 out of 23 provisions of the deal as “complete” or “satisfied to date,” while listing the remaining two—diversifying faculty hires and reviewing regional studies course offerings—“in progress.”"
+          },
+          {
+            "type": "text",
+            "value": "It marks increased compliance from the first report—<a href=\"https://www.columbiaspectator.com/news/2026/04/09/in-first-report-on-active-compliance-with-trump-deal-columbia-mandates-civil-discourse-attestation-increases-oversight-through-new-administrators/\">released</a> in April—where Columbia listed five provisions as “in progress.” Since then, the University has <a href=\"https://www.columbiaspectator.com/news/2026/07/01/columbia-appoints-michelle-greenberg-kobrin-as-jewish-life-liaison/\">appointed</a> Michelle Greenberg-Kobrin, CC ’96, Law ’99, as its Jewish life liaison and <a href=\"https://www.columbiaspectator.com/news/2026/08/02/columbia-undergraduate-schools-ask-international-applicants-reason-for-studying-in-us-per-trump-deal/\">expanded</a> the rollout of new admissions questions for all international applicants."
+          },
+          {
+            "type": "text",
+            "value": "In the six months since the April report, Washington has moved to revive its campaign of scrutiny against higher education, zeroing in on research funding. Over the summer, the Office of Management and Budget <a href=\"https://www.columbiaspectator.com/news/2026/08/18/sweeping-omb-proposal-to-overhaul-federal-grant-allocation-process-sparks-pushback-from-columbia-us-senate/\">unveiled</a> a proposal to require Trump appointees to approve all new federal grants, due to take effect in December. Last month, Trump <a href=\"https://www.columbiaspectator.com/news/2026/09/21/proposed-trump-order-to-tighten-nih-grant-control-poses-possible-funding-threat-to-columbia/\">ordered</a> officials to draft an executive order to bring funding from the National Institutes of Health under White House control."
+          },
+          {
+            "type": "text",
+            "value": "Back in Morningside Heights, University President Jennifer Mnookin is now tasked with steering the University through the deal’s sunset in 2028. In her first <a href=\"https://www.columbiaspectator.com/news/2026/09/14/mnookin-confronts-campus-access-trump-administration-transparency-in-first-spectator-interview/\">interview</a> with Spectator in September, Mnookin said she would not have accepted the role of University president if she did not believe Columbia could uphold its principles under the deal’s provisions."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2026/02/05/mnookins-appointment-ends-a-2-year-period-of-interim-leadership-what-did-her-predecessors-leave-her/\"><i>Mnookin’s appointment ends a 2-year period of interim leadership. What did her predecessors leave her?</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "“As per our resolution agreement with the federal government, we have posted our October 1 semi-annual report demonstrating our active and ongoing progress,” a University spokesperson wrote in a Monday statement to Spectator. “The University remains committed to continued work in compliance with the resolution agreement.” The spokesperson did not respond to an extensive list of questions from Spectator about specifics from the report."
+          },
+          {
+            "type": "text",
+            "value": "In its March 21, 2025, <a href=\"https://www.columbiaspectator.com/news/2025/03/21/columbia-to-acquiesce-to-trump-administrations-demands-amid-federal-funding-threats/\">demands</a> to Columbia, the federal government called for the University to place the Middle Eastern, South Asian, and African Studies department under academic receivership. Columbia did not abide by that demand and instead placed the department under a review conducted by a senior vice provost."
+          },
+          {
+            "type": "text",
+            "value": "The report noted the ongoing implementation of diversified curricular offerings in the Middle East that “would complement, rather than duplicate” courses in MESAAS for the 2025-26 and 2026-27 academic years, stemming from February <a href=\"https://www.columbiaspectator.com/news/2026/02/08/following-federal-scrutiny-columbia-review-committee-moves-to-reshape-middle-eastern-studies-increasing-focus-on-israel/\">recommendations</a> from the provost’s regional review committee."
+          },
+          {
+            "type": "text",
+            "value": "“These new courses, which were added through the standard faculty-approval processes, enrich the intellectual range of the University’s course offerings, and have already generated significant registration from students in a wide variety of majors,” the report reads, noting that more classes are set to be added this academic year."
+          },
+          {
+            "type": "text",
+            "value": "This fall, MESAAS <a href=\"https://www.columbiaspectator.com/news/2026/09/27/mesaas-launches-3-language-based-minors-in-armenian-arabarabic-south-asian-studies/\">introduced</a> three new minors in Armenian, Arab/Arabic, and South Asian studies. The School of International and Public Affairs also <a href=\"https://www.columbiaspectator.com/news/2026/07/07/sipa-officially-announces-undergraduate-major-supported-by-gift-from-foundation-focused-on-civil-discourse-jewish-heritage/\">launched</a> a contentious undergraduate major in global affairs and public policy, which will include several courses about the Middle East which focus on Israel."
+          },
+          {
+            "type": "text",
+            "value": "Columbia reported it had also appointed four visiting faculty to SIPA and the economics and history departments as of this fall. In some cases, faculty have also been jointly appointed to the Institute for Israel and Jewish Studies. The report also noted that Columbia has launched three ongoing full-time, permanent faculty searches. A University spokesperson did not specify who the four visiting faculty members were nor which academic department concerns the three ongoing searches."
+          },
+          {
+            "type": "text",
+            "value": "The report cited an updated <a href=\"https://institutionalequity.columbia.edu/sites/institutionalequity.columbia.edu/files/content/Documents/Policies/Academic_Search_and_Recruiting_Policies_Procedures_and_Practices.pdf\">guide</a> for academic hiring released in September that emphasizes the need for hiring and promotions to be decided on “candidates’ skills, experiences, knowledge, qualifications, and other competencies related to job performance,” rather than their race, color, sex, national origin, or religion."
+          },
+          {
+            "type": "text",
+            "value": "It also stated that Columbia continues to work with the provost’s office to review faculty hiring practices and will issue an additional new guide for best practices for faculty searches. A University spokesperson did not respond to Spectator’s request for comment on when this guide will be released."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2019/02/01/columbia-has-185-million-in-dedicated-funds-why-is-hiring-diverse-faculty-still-so-difficult-9/\"><i>Columbia has $185 million in dedicated funds. Why is hiring diverse faculty still so difficult?</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "The University in the report also underscored its commitment in the report to comply with nondiscrimination laws regarding admissions; diversity, equity and inclusion initiatives; and faculty appointments."
+          },
+          {
+            "type": "text",
+            "value": "Columbia announced that this fall, all students would be required to complete training focused on Title VI of the Civil Rights Act of 1964—which prohibits discrimination on race, color, and national origin in federally funded programs—and on the “importance of committing to civil discourse, free inquiry, open debate, and the fundamental values of equality and respect,” following up on what it previously wrote in the April report."
+          },
+          {
+            "type": "text",
+            "value": "A University spokesperson did not specify when students would receive this new training. Additionally, the spokesperson did not identify the Title VI coordinator the report states began their work “early in March 2026.” A University official did not identify them when Spectator asked after the first semiannual report had been released."
+          },
+          {
+            "type": "text",
+            "value": "The report stated that Columbia reviews work focusing on DEI-related topics to confirm it “accurately reflects the University’s current policies consistent with the law” and to ensure that all Columbia programs are “open to individuals without regard to protected characteristics.”"
+          },
+          {
+            "type": "text",
+            "value": "A February 2025 Spectator <a href=\"https://www.columbiaspectator.com/news/2025/02/19/columbia-alters-dei-statements-on-university-web-pages-amid-trump-executive-orders/\">analysis</a> found Columbia altered DEI-related language on its webpages following two January 2025 Trump executive orders targeting DEI. The semiannual report lays bare that part of Columbia’s enforcement concerns “conducting a review of University webpages and working to revise webpages that do not reflect the University’s current policies and practices.”"
+          },
+          {
+            "type": "text",
+            "value": "To abide by merit-based admissions provisions, the University reported it “conducted a review of each admissions team’s policies and practices prior to the beginning of the 2025-2026 admissions cycle, including meeting individually with every admissions team across the University to ensure compliance.” It also pointed to its latest Common Data Set, which <a href=\"https://www.columbiaspectator.com/news/2026/09/23/columbias-2025-26-common-data-set-shows-admissions-diversity-shifts/\">showed</a> an increase in Black or African-American enrollment and a decrease in Hispanic or Latino enrollment for the class of 2029."
+          },
+          {
+            "type": "text",
+            "value": "As part of the settlement, Columbia also committed to decrease its reliance on international students, which make up 39 percent of the student body. In the report, it confirmed that an unspecified number of Columbia’s schools have added a question to their 2027-28 applications which probes prospective international students on their reasons to study in the United States."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2025/10/16/in-compliance-with-trump-deal-law-school-asks-international-applicants-their-reasons-for-studying-in-the-us/\"><i>In compliance with Trump deal, Law School asks international applicants their reasons for studying in the US</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "At a University Senate plenary on Friday, Mnookin said she was unsure if responses to the applicant question affect international applicants’ chances of being admitted to Columbia. Columbia’s latest Common Data Set found a higher domestic acceptance rate between 2024 and 2025 after the University experienced a <a href=\"https://www.columbiaspectator.com/news/2025/11/05/columbia-sees-drop-in-international-student-applications-for-upcoming-admissions-cycle-shipman-says/\">decline</a> in international applicants for the 2025-26 academic year. A University spokesperson did not specify to Spectator whether initial recommendations made in fall 2025 addressing financial reliance on international students remain under review."
+          },
+          {
+            "type": "text",
+            "value": "New federal guidance has also inserted new hurdles for international students. The Department of Homeland Security on Wednesday appealed a Sept. 14 <a href=\"https://www.columbiaspectator.com/news/2026/09/15/judge-temporarily-blocks-contentious-dhs-rule-capping-student-visas-at-four-years/\">ruling </a>which struck down a proposed four-year visa cap for international students. <a href=\"https://www.columbiaspectator.com/news/2026/08/31/columbia-reviews-international-student-work-authorizations-after-federal-memos-olinto-announces/\">Columbia </a>and <a href=\"https://www.columbiaspectator.com/news/2026/08/29/barnard-quietly-pauses-international-student-internship-approvals-following-federal-memos/\">Barnard</a> have also moved to curtail work approvals for international students in line with recent federal memos."
+          },
+          {
+            "type": "text",
+            "value": "Columbia also reaffirmed in the report it “consistently <a href=\"https://www.columbiaspectator.com/news/2025/04/03/trump-told-columbia-to-hire-officers-with-arrest-power-the-university-was-already-planning-on-it/\">maintains</a> at least 36 ‘Special Patrol Officers’” with the power to arrest, and that it continues to abide by obligations surrounding Title IX; <a href=\"https://www.columbiaspectator.com/news/2026/02/09/columbia-has-received-over-12-billion-in-foreign-funding-with-china-and-england-as-its-biggest-funding-sources/\">foreign gifts</a>; sanctions enforcement, anti-money laundering, and prevention of terrorist financing; the <a href=\"https://www.columbiaspectator.com/news/2025/06/12/after-promise-to-trump-columbia-alters-disciplinary-hearing-process-without-university-senate-approval/\">administering</a> of the University Judicial Board under the Office of the Provost; demonstration policies; disciplinary rule enforcement; and employee trainings relevant to the deal’s provisions."
+          },
+          {
+            "type": "text",
+            "value": "This latest account about the University’s ongoing compliance with the settlement comes two months after the Department of Education <a href=\"https://www.columbiaspectator.com/news/2026/08/13/columbia-is-reviewing-education-department-institutional-reform-directive-university-spokesperson-says/\">unveiled</a> a “national call to action” for institutional reform. The directive’s stipulations mirrored many of the terms of Columbia’s deal with the Trump administration. While it is unclear whether the University or its peers will comply with the directive, it symbolized one part of the Trump administration’s broader framework to keep its finger on the pulse of higher education."
+          },
+          {
+            "type": "text",
+            "value": "A University spokesperson did not confirm to Spectator the date for the release of the next semi-annual report."
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Joseph Zuloaga can be contacted at </i><i>joseph.zuloaga@columbiaspectator.com</i><i>. Follow him on X </i><a href=\"https://twitter.com/JosephZuloaga\"><i>@josephzuloaga</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "In second report on Trump deal compliance, Columbia touts new all-student Title VI training, efforts to diversify faculty",
+        "dek": "In the six months since its last report, Columbia welcomed University President Jennifer Mnookin, who will now oversee the remaining two years of Columbia’s adherence to the $221 million settlement.",
+        "date": "October 5, 2026",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/joseph-zuloaga/\">Joseph Zuloaga</a>",
+        "byline2": "",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/HE3VRXQYSRELBNB3JBPGVX5LZI.jpg",
+        "cover_caption": "Zoe Villalobos / Deputy Illustrations Editor",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1JFoQjYkPMNfPKmGSXrdkwfRD9_dEdtX3c4ajETW9xmI/edit?usp=sharing"
       }
     }
   }
